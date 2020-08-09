@@ -7,13 +7,11 @@
 
 namespace Fraction_Calculator
 {
-
-        partial class main
+    partial class main
         {
             static void Main(string[] args)
             {
                 Run();
             }
         }
-
 }

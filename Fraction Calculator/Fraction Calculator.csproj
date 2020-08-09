@@ -38,11 +38,13 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Menu\Menu.cs" />
         <Compile Include="Operations\Addition.cs" />
         <Compile Include="Operations\Division.cs" />
         <Compile Include="Operations\FindLeastCommonMultiple.cs" />
         <Compile Include="Operations\FindGreatestCommonDivisor.cs" />
         <Compile Include="Operations\Multiplication.cs" />
+        <Compile Include="Operations\Reduce.cs" />
         <Compile Include="Operations\ReduceToCommonDenominator.cs" />
         <Compile Include="Operations\Subtraction.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />

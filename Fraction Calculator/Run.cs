@@ -14,12 +14,10 @@ namespace Fraction_Calculator
         {
             Splashinfo();
 
-            Fraction fraction1;
-            Fraction fraction2;
-            Fraction result;
-
-
-
+            Fraction fraction1 = new Fraction();
+            Fraction fraction2 = new Fraction();
+            Fraction result = new Fraction();
+            Menu(ref fraction1, ref fraction2, ref result);
         }
 
         struct Fraction

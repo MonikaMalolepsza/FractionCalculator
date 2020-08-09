@@ -1,3 +1,4 @@
+
 //Autor:        Monika Malolepsza
 //Klasse:       IA119
 //Datei:        ReduceToCommonDenominator.cs
